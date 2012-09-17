@@ -1,0 +1,18 @@
+<header>
+  <h1>
+    <a href="/">{{ site.title }}</a>
+  </h1>
+  <p>
+    {{ site.tagline }}
+  </p>
+  <blockquote>
+    {{ site.tagline_long }}
+  </blockquote>
+  <p>
+    {% for section in site.sections %}
+    <p>
+      <a href="/{{ section | downcase | replace:' ', '' }}.html">{{ section }}</a>
+    </p>
+    {% endfor %}
+  </p>
+</header>
