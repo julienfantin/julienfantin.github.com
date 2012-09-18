@@ -3,7 +3,7 @@ auto: true
 
 # Website config
 title: "Julien Fantin"
-tagline: "Software developer, iOS aficionado."
+tagline: "Software developer,\niOS aficionado."
 tagline_long: "Seeking collaboration within a team of passionate hackers."
 future: no
 pygments: yes
