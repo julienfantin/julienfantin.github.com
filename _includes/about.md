@@ -1,9 +1,12 @@
 Hi,
 
-I build iOS apps professionally, but like to think of myself as a software generalist.
+I design and build iOS apps professionally, but like to think of myself as a generalist.
 
-I'm in it for the fun and the challenges and I love what I do.
+I'm in it for the fun and the challenges, I love what I do.
 
-I currently work remotely while living in {{ site.location }}.
+I currently freelance remotely while living in {{ site.location }}.
 
-[*{{ site.work_status }}*](/hireme.html)
+I'm moving to Berlin in October in order to work with local startups.
+
+> {{ site.tagline_long }}  
+> [*{{ site.work_status }}*](/resume.html)

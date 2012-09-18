@@ -4,7 +4,7 @@ auto: true
 # Website config
 title: "Julien Fantin"
 tagline: "Software developer, iOS aficionado."
-tagline_long: "Seeking collaboration within a team of passionate hackers !"
+tagline_long: "Seeking collaboration within a team of passionate hackers."
 future: no
 pygments: yes
 
@@ -12,9 +12,9 @@ pygments: yes
 # The filename should contain no uppercase and no spaces
 sections:
   - About
+  - Resume
   - Blog
-  - Work
 
 # Status updates
-work_status: "I'm available for work!"
+work_status: "I'm available for work, hire me!"
 location: "France"

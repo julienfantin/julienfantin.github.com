@@ -1,0 +1,6 @@
+.right-align {
+  display:block;
+  position:float;
+  float:right;
+  padding-right:24px;
+}
