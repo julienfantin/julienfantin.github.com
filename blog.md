@@ -11,6 +11,6 @@ title: Blog
 
 {% else %}
 
-*Looks like I need to start blogging!*
+Woops, looks like I need to start blogging!
 
 {% endif %}

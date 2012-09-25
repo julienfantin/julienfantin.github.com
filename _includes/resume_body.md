@@ -1,13 +1,14 @@
-
 ##Work experience
 ---
+
 ####2011 - 2012 Lead iPad developer, Employed at [C6] (http://www.c6.eu)
 
 - iD2 iPad, unreleased
 
-	An enterprise-grade CMS database browser and document viewer.
-	> Concurrency with CoreData and multiple HTTP requests.  
-	> PDF viewer and annotations.  
+	A database browser and document viewer for an enterprise-grade CMS.
+
+	> Concurrency with CoreData and HTTP requests.
+	> PDF document viewer and annotations.  
 	> iOS SDK 4.3
 
 ####2009 - 2011 Lead iPhone developer, Freelance
@@ -16,6 +17,7 @@
 
 	An insurance quote application with a complimentary 3D game.  
 	A leaderboard application server.
+	
 	> 2-way communication between the Unity3D engine and an iOS application.  
 	> iOS SDK 4.1, Unity 3D and Ruby
 
@@ -56,19 +58,19 @@ I use Git daily, Svn when I have to.
 iOS, Mac OS, Linux
 
 ####Frameworks
-Cocoa Touch, SenTestingKit, Core Data, GCD, RestKit, Cocos2D
+Cocoa Touch, SenTestingKit, Core Data, GCD, RestKit, Cocos2D.
 
 ####Web development
-RESTful architecture, JSON and XML serialization
+RESTful design, JSON and XML serialization formats.
 
 ##Education
 ---
 - 2012 [HackerSchool s2012](http://www.hackerschool.com) - New York City, United States.
-> Learned the Clojure programming language and functional programming. .
+> Learned the Clojure programming language and functional programming.  
 > [Contributed](http://clojure.org/contributing) to the ClojureScript compiler.  
 - 2007-2008 AFPA Software developer training - Marseille, France.  
-- 2004-2006 Biology undergraduate. - Avignon, France.  
-- 2003 French Baccalauréat in Sciences. - Avignon, France.  
+- 2004-2006 Biology undergraduate - Avignon, France.  
+- 2003 French Baccalauréat in Sciences - Avignon, France.  
 
 ##Soft Skills
 ---
