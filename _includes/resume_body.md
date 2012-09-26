@@ -52,16 +52,16 @@
 - Unity3D, Shiva3D
 
 ####Version control
-I use Git daily, Svn when I have to.
+I use Git daily, Svn when I *have to*.
 
 ####Operating systems
 iOS, Mac OS, Linux
 
 ####Frameworks
-Cocoa Touch, SenTestingKit, Core Data, GCD, RestKit, Cocos2D.
+UIKit, Core Data, GCD, SenTestingKit, RestKit, MapKit, Cocos2D.
 
 ####Web development
-RESTful design, JSON and XML serialization formats.
+RESTful APIs usage and design, JSON and XML serialization formats.
 
 ##Education
 ---
