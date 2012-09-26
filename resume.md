@@ -3,7 +3,7 @@ layout: default
 ---
 
 <span class="right-align">
-	<a href="/resume_full.html">Print version</a>
+	<small><a href="/resume_full.html">Print-friendly version</a></small>
 </span>
 
 {% include resume_body.md %}
