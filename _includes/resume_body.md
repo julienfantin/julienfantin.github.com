@@ -7,7 +7,7 @@
 
 	A database browser and document viewer for an enterprise-grade CMS.
 
-	> Concurrency with CoreData and HTTP requests.
+	> Concurrency with CoreData and HTTP requests.  
 	> PDF document viewer and annotations.  
 	> iOS SDK 4.3
 
