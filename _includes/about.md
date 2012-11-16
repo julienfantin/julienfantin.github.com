@@ -15,6 +15,6 @@
 >    values elegant solutions but ship first  
 >    is enthusiastic about collaboration
 >
-> I currently freelance remotely while living in {{ site.location }}.
+> I'm currently freelancing while living in {{ site.location }}.
 >
 > [*{{ site.work_status }}*](mailto:julienfantin@gmail.com?subject=Hi)
