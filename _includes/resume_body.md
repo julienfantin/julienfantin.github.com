@@ -1,7 +1,7 @@
 ##Work experience
 ---
 
-####2011 - 2012 Lead iPad developer, Employed at [C6] (http://www.c6.eu)
+####2011 - 2012 iPad developer, Employed at [C6] (http://www.c6.eu)
 
 - iD2 iPad, unreleased
 
@@ -11,7 +11,7 @@
 	> PDF document viewer and annotations.  
 	> iOS SDK 4.3
 
-####2009 - 2011 Lead iPhone developer, Freelance
+####2009 - 2011 iPhone developer, Freelance
 
 - [idmacif.fr iPhone](http://itunes.apple.com/fr/app/idmacif-fr/id406130062?mt=8), for [idmacif.fr](http://www.idmacif.fr)
 
